@@ -1,0 +1,7 @@
+[
+  "testsuite/test_parent.py::test_construction",
+  "testsuite/test_student.py::test_add_parent",
+  "testsuite/test_student.py::test_add_parents",
+  "testsuite/test_student.py::test_construction",
+  "testsuite/test_student.py::test_primary_parent"
+]
